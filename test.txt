@@ -1,7 +1,10 @@
 tinh_nang_dang_nhap
 
+tinh_nang_tim_kiem
+
 tinh_nang_dat_hang
 
 tinh_nang_thanh_toan
 
 tinh_nang_dang_xuat
+
