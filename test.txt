@@ -1,1 +1,3 @@
 tinh_nang_dang_nhap
+
+tinh_nang_dang_xuat
