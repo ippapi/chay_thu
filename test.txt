@@ -1,3 +1,5 @@
 tinh_nang_dang_nhap
 
 tinh_nang_dat_hang
+
+tinh_nang_dang_xuat
